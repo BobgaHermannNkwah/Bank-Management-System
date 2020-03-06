@@ -74,7 +74,7 @@ namespace Bank_Management_System
             }
             else
             {
-                MessageBox.Show("Login Failed...");
+                MessageBox.Show("Login Failed, Invalid Credentials...");
             }
         }
 
